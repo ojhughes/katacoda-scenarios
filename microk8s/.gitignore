@@ -1,5 +1,5 @@
 .gradle
-.idea
+../.idea
 *.tgz
 *.tar.gz
 *.jar
