@@ -34,6 +34,7 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ohughes-microk8s-cluster"
+//     "imageid": "ohughes-microk8s-cluster"
+    "imageid": "ubuntu:2004"
   }
 }
